@@ -1,0 +1,48 @@
+body {
+    background-image: url(" 2eSd.gif"), url("wall.png");
+    background-repeat: no repeat;
+    
+  }
+  img{
+    position: absolute;
+    top: 250px;
+    left: -10px;
+    width: 100%;
+  }
+p{
+  font-family : 'Tangerine', serif;
+	font-size : 68px;
+  text-align: center;
+	}
+  h4{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  .hidden {
+    opacity:0;
+  }
+  .console-container {
+   font-family : 'Tangerine', serif;
+    font-size:4em;
+    text-align:center;
+    height:90px;
+    width:600px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 90px;
+    /* position:absolute;
+    color:white;
+    top: 100px;
+    left:;
+    margin:auto; */
+    
+  }
+  .console-underscore {
+     display:inline-block;
+    position:relative;
+    top:-0.14em;
+    left:10px;
+  }
